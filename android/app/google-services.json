@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635290955336",
+    "project_id": "tomspipesapp",
+    "storage_bucket": "tomspipesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635290955336:android:2473c9e5b2eaab5914b27d",
+        "android_client_info": {
+          "package_name": "com.example.toms_pipes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635290955336-c660muibqp3h4cl3rt95p7ijhn1nkb6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toms_pipes_app",
+            "certificate_hash": "d70e2ca69ba7ebb9cba334559844cffcdc1434f2"
+          }
+        },
+        {
+          "client_id": "635290955336-p7ieoon9cm7el1jadbj8tim8v5ver5ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6bGmWh5tC7iVKFBdDjONyzQNu-jFrnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635290955336-p7ieoon9cm7el1jadbj8tim8v5ver5ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
